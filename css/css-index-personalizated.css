@@ -19,7 +19,9 @@ body {
 	font-size: 16px;
 	line-height: 28px;
 	color: #ffffff;
-	background: #000000;
+	background-image: url('../images/tomas-fondo-negro.png');
+    background-repeat: no-repeat;
+background-attachment: fixed;
 	overflow-x: hidden;
 	position: relative;
 }
@@ -195,7 +197,7 @@ a:hover {
 	padding: 20px 50px;
 	height: 65px;
 	border: none;
-	background: #efb810;
+	background: #FF884E;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
@@ -206,7 +208,7 @@ a:hover {
 .btn-secondary:active,
 .btn-secondary.active,
 .open > .dropdown-toggle.btn-secondary {
-	background: #bd801e;
+	background: #E77944;
 	color: white
 }
 
@@ -346,7 +348,7 @@ a:hover {
 #feature {
 	padding-top: 100px;
 	background: #000000;
-    color: #DD9933;
+    color: #FF884E;
 }
 
 #feature h2 {
@@ -371,7 +373,7 @@ a:hover {
 	font-size: 48px;
 	float: left;
 	width: 20%;
-	color: #ffffff;
+	color: #FF884E;
 	height: 100%;
 	position: relative;
 	opacity: 0.6;
@@ -380,7 +382,7 @@ a:hover {
 }
 
 .feat-list:hover i {
-	color: #ff1917;
+	color: #ffffff;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -547,14 +549,14 @@ a:hover {
 	font-size: 17px;
 	padding: 12px 35px;
 	height: 40px;
-	background: #efb810;
+	background: #DD9933;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
 }
 
 .btn-price:hover {
-	background: #bd801e;
+	background: #E77944;
 	color: white;
 }
 
@@ -1403,4 +1405,13 @@ ul.list-inline li {
 
 .feature-3-pic {
 	margin-top: 20px;
+}
+
+#download .action {
+    background-color: #ffffff;
+}
+
+#download .action h2 {
+    font-weight: 800;
+    color: #000000;
 }
