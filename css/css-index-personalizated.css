@@ -153,10 +153,10 @@ a:hover {
 .btn-default {
 	font-size: 17px;
 	margin-right: 10px;
-	border: 2px solid #DD9933;
+	border: 2px solid #FF884E;
 	background: transparent;
 	transition: all 0.4s;
-	color: #DD9933;
+	color: #FF884E;
 	border-radius: 100px;
 }
 
@@ -165,16 +165,16 @@ a:hover {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-	border: 2px solid #efb810;
-	background: #efb810;
+	border: 2px solid #E77944;
+	background: #E77944;
 	color: white;
 }
 
 .btn-primary {
 	font-size: 17px;
 	margin-right: 10px;
-	border: 2px solid #DD9933;
-	background: #DD9933;
+	border: 2px solid #FF884E;
+	background: #FF884E;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 100px;
@@ -185,9 +185,9 @@ a:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	border: 2px solid #DD9933;
+	border: 2px solid #E77944;
 	background: transparent;
-	color: #DD9933;
+	color: #E77944;
 }
 
 .btn-secondary {
@@ -292,7 +292,7 @@ a:hover {
 	border-radius: 0;
 	height: 55px;
 	width: 100%;
-	background-color: #DD9933;
+	background-color: #FF884E;
 	color: white;
 	font-size: 17px !important;
 	padding: 0 33px;
@@ -303,7 +303,7 @@ a:hover {
 }
 
 .form-header .btn:hover {
-	background-color: #bd801e;
+	background-color: #E77944;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -461,7 +461,7 @@ a:hover {
 }
 
 .subscribe-form .btn:hover {
-	background-color: #bd801e;
+	background-color: #E77944;
 	color: #fff;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
@@ -549,7 +549,7 @@ a:hover {
 	font-size: 17px;
 	padding: 12px 35px;
 	height: 40px;
-	background: #DD9933;
+	background: #FF884E;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
@@ -744,7 +744,7 @@ a:hover {
 }
 
 #contact-form .btn:hover {
-	background-color: #bd801e;
+	background-color: #E77944;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
