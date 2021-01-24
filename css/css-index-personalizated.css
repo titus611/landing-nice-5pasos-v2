@@ -1415,3 +1415,12 @@ ul.list-inline li {
     font-weight: 800;
     color: #000000;
 }
+
+/* Style the video: 100% width and height to cover the entire window - adtional loopback video 
+#myVideo {
+  position: inherit;
+  right: 0;
+  bottom: 0;
+  min-width: auto;
+  min-height: auto;
+}*/
